@@ -15,7 +15,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
 //=================================================//
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~HnIxVBTT#vtnD3hnAe4rFuUJyUXET68Fi6vrHvMxo0j-M3Vrk9WI' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //=================================================//

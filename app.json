@@ -12,7 +12,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your Xploader session id here; must start with XPLOADER-BOT:~",
-      "value": "",
+      "value": "XPLOADER-BOT:~jmwAhZAL#q7sfVDQzg3WRVvy-R7QZ6nHrTPg7FjDb-GQTtpwmz-w",
       "required": false
     },
     "BOT_NAME": {

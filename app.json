@@ -17,7 +17,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~",
-      "value": "",
+      "value": "XPLOADER-BOT:~ai5XCAYb#p7a_31x8IYao9TDJNQSgp0hhpcfqATYGNKJD66A0LN8",
       "required": false
     },
     "BOT_NAME": {
@@ -27,12 +27,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 2547xxxxxxxx",
-      "value": "",
+      "value": "23274448130",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Mr Take Tee",
       "required": true
     },
     "TIMEZONE": {
